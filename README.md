@@ -1,16 +1,24 @@
-# 🚀 GrockPay Scanner: Detecta Memecoin Launches en Solana (Pump.fun)
+# GrockPay Scanner  
+**Detecta lanzamientos de memecoins en Pump.fun en tiempo real**  
+*Inspirado en Grok (xAI), Solana y la curiosidad que genera riqueza real.*
 
-¡Bienvenido, curioso! Inspirado en Grok y Solana, este tool detecta carteras que lanzan tokens calientes **en tiempo real**, sin scams. Observa patrones: tx a Pump program, mints rápidos. ¡No necesitas SOL para usarlo!
+> **"El verdadero tesoro no es el número 42, ni un fondo oculto. Es la curiosidad y la forma de hacer la pregunta correcta."**
 
-## ¿Por qué usarlo?
-- **Gratis & Open-Source**: Corre local.
-- **Adaptable**: Detecta launches incluso si wallets cambian (busca patrones, no keys).
-- **Monetiza tu curiosidad**: Usa para alerts, trading early, o educa a otros.
+---
+
+## ¿Qué hace?
+Este script **lee la blockchain pública de Solana** y detecta **carteras que acaban de lanzar un memecoin en Pump.fun**, incluso si cambian de dirección.  
+- **No necesitas SOL**  
+- **No conecta tu wallet**  
+- **100% gratis y open-source**  
+- **Funciona en tu PC con Python**
+
+---
 
 ## Instalación (Dummy-Proof)
-1. Clona: `git clone https://github.com/javieesolana/grockpay-scanner`
-2. Instala: `pip install -r requirements.txt`
-3. Corre: `python main.py`
-4. Output: Lista de wallets + links a Solscan.
 
-## Ejemplo de Output
+```bash
+git clone https://github.com/javieesolana/grockpay-scanner
+cd grockpay-scanner
+pip install -r requirements.txt
+python main.py
