@@ -1,0 +1,2 @@
+requests==2.31.0
+solders==0.21.0  # Para Pubkey (instala con pip, pero script base usa strings)
