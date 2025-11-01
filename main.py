@@ -1,5 +1,5 @@
 # GrockPay Scanner - Detector de Memecoin Launches en Pump.fun
-# Creado por @javieesolana | Monetizado via PayPal: paypal.me/javieesolana
+# Creado por @z3r0dev | Monetizado via PayPal: paypal.me/javieesolana
 # Detecta carteras que lanzan tokens: patrones de tx a Pump program, mints rápidos.
 # Adaptable: Busca por signatures recientes, no keys fijas.
 
